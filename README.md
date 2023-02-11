@@ -2,9 +2,10 @@
 
 - 🔭 I’m currently a coding bootcamp student
 - 💡 I’m learning HTML, CSS and JavaScript
+- I come from 🇧🇴 Bolivia and raised in 🇪🇸 Spain, currently based in 🇬🇧 UK 
 - 📫 How to reach me: wendyvasr99@hotmail.com
 - 🐺 Pronouns: They/their/them
-- 🌱 Fun fact: I am vegan for ethical, health and envionmental reasons.
+- 🌱 Fun fact: I am vegan for ethical, health and envionmental reasons. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
