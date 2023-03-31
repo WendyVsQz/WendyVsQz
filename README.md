@@ -1,7 +1,7 @@
 ### Hola a todos 👋
 
 - 🔭 I’m a coding bootcamp graduated
-- 💡 I’m learning HTML, CSS, JavaScript and React
+- 💡 Actively learning HTML, CSS, JavaScript and React
 - I come from 🇧🇴 Bolivia and raised in 🇪🇸 Spain, currently based in 🇬🇧 UK 
 - 📫 How to reach me: wendyvasr99@hotmail.com
 - 🐺 Pronouns: They/their/them
