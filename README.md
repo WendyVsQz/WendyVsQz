@@ -1,4 +1,5 @@
-![github-header-image](https://user-images.githubusercontent.com/118736912/229279143-a81529d1-92d8-45df-b64f-f48b96571d61.png)
+
+![github-header-image(1)](https://user-images.githubusercontent.com/118736912/233840706-29160856-0883-492e-a612-6cb86118ed72.png)
 
 - 🔭 I’m a coding bootcamp graduate 
 - 💡 Actively learning HTML, CSS, JavaScript and React
