@@ -6,7 +6,7 @@
 - I come from 🇧🇴 Bolivia and raised in 🇪🇸 Spain, currently based in 🇬🇧 UK 
 - 📫 How to reach me: wendyvasr99@hotmail.com
 - 🐺 Pronouns: They/their/them
-- 🌱 Fun fact: I am vegan for ethical, health and envionmental reasons. 
+- Passion: Coding, learning, video games and cooking
 
   <img align="right" alt="pic" height="380" style="border-radius:50px;" src="https://user-images.githubusercontent.com/118736912/229279976-e84e1959-6aa7-4a29-a7d7-ca1b3c39c542.JPG">
 
