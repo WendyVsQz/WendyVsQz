@@ -1,7 +1,7 @@
 
 ![github-header-image(1)](https://user-images.githubusercontent.com/118736912/233840706-29160856-0883-492e-a612-6cb86118ed72.png)
 
-- 🔭 I’m a coding bootcamp graduate 
+- 🔭 I’m a coding bootcamp graduate and studying computer science degree.
 - 💡 Actively learning frontend and backend: Javascript, React, Python and Django
 - I come from 🇧🇴 Bolivia and raised in 🇪🇸 Spain, currently based in 🇬🇧 UK 
 - 📫 How to reach me: wendyvasr99@hotmail.com
